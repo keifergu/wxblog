@@ -1,0 +1,63 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;wxblog&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/gogogo/src/playPixel" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/playgopl" />
+      <root url="file://$USER_HOME$/go/src/牛客网BAT算法" />
+      <root url="file://$USER_HOME$/go/src/xingnengceshi" />
+      <root url="file://$USER_HOME$/go/src/.idea" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/hibernate-controller" />
+      <root url="file://$USER_HOME$/go/src/Notification" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/github.com" />
+      <root url="file://$USER_HOME$/go/src/service_firewall" />
+      <root url="file://$USER_HOME$/go/src/huanyu0w0algorithm" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/playecho" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/servicetest" />
+      <root url="file://$USER_HOME$/go/src/huanyu0w0" />
+      <root url="file://$USER_HOME$/go/src/DBtest" />
+      <root url="file://$USER_HOME$/go/src/servicetest" />
+      <root url="file://$USER_HOME$/go/src/gopkg.in" />
+      <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/goinaction" />
+      <root url="file://$USER_HOME$/go/src/golang.org" />
+      <root url="file://$USER_HOME$/go/src/Twitter" />
+      <root url="file://$USER_HOME$/go/src/playAlog" />
+      <root url="file://$USER_HOME$/go/src/qiniupkg.com" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/playkafka" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/playblackfriday" />
+      <root url="file://$USER_HOME$/go/src/mongo-mload" />
+      <root url="file://$USER_HOME$/go/src/blog" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Documents/gogogo/src/playPixel" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/playgopl" />
+      <root url="file://$USER_HOME$/go/src/牛客网BAT算法" />
+      <root url="file://$USER_HOME$/go/src/xingnengceshi" />
+      <root url="file://$USER_HOME$/go/src/.idea" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/hibernate-controller" />
+      <root url="file://$USER_HOME$/go/src/Notification" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/github.com" />
+      <root url="file://$USER_HOME$/go/src/service_firewall" />
+      <root url="file://$USER_HOME$/go/src/huanyu0w0algorithm" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/playecho" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/servicetest" />
+      <root url="file://$USER_HOME$/go/src/huanyu0w0" />
+      <root url="file://$USER_HOME$/go/src/DBtest" />
+      <root url="file://$USER_HOME$/go/src/servicetest" />
+      <root url="file://$USER_HOME$/go/src/gopkg.in" />
+      <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/goinaction" />
+      <root url="file://$USER_HOME$/go/src/golang.org" />
+      <root url="file://$USER_HOME$/go/src/Twitter" />
+      <root url="file://$USER_HOME$/go/src/playAlog" />
+      <root url="file://$USER_HOME$/go/src/qiniupkg.com" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/playkafka" />
+      <root url="file://$USER_HOME$/Documents/gogogo/src/playblackfriday" />
+      <root url="file://$USER_HOME$/go/src/mongo-mload" />
+      <root url="file://$USER_HOME$/go/src/blog" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
