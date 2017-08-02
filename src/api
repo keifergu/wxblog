@@ -1,0 +1,23 @@
+BasicAuth huanyu0w0 3.1415926
+
+[GET] /v1/article
+
+[GET] /v1/article/:id
+
+[POST] /v1/article/:id
+body {
+    "title" : ""
+    "content" : ""
+}
+
+[PUT] /v1/article/:id
+
+[DELETE] /v1/article/:id
+
+[GET] /v1/article/search
+
+[GET] /v1/article/:id/like
+
+[POST] /v1/article/:articleid/comment/:commentid
+
+[DELETE] /v1/article/:articleid/comment/:commentid
